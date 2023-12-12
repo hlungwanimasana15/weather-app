@@ -1,0 +1,63 @@
+/* .forecast-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background: linear-gradient(to bottom, #355c83, #466981, #1F6690);
+  }
+  
+  .forecast-days-container {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+  }
+  
+  .daily-item {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .icon-small {
+    width: 50px;
+    height: 50px;
+  }
+  
+  .day {
+    font-size: 1.2em;
+    font-weight: bold;
+  }
+  
+  .description {
+    font-size: 0.9em;
+  }
+  
+  .min-max {
+    font-size: 1em;
+    font-weight: bold;
+    margin-top: 5px;
+  }
+  
+  .daily-details-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 5px;
+    margin-top: 10px;
+  }
+  
+  .daily-details-grid-item {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  label {
+    font-weight: bold;
+  }
+  
+  span {
+    font-weight: normal;
+  }
+   */
